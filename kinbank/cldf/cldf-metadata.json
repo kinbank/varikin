@@ -9,13 +9,13 @@
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.2.1",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0",
+            "dc:created": "v2.5.0",
             "dc:title": "Concepticon"
         },
         {
@@ -26,6 +26,10 @@
         }
     ],
     "prov:wasGeneratedBy": [
+        {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
         {
             "dc:title": "python",
             "dc:description": "3.8.1"
@@ -43,7 +47,8 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 122387,
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
+            "dc:extent": 123189,
             "tableSchema": {
                 "columns": [
                     {
