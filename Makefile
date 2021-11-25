@@ -1,10 +1,6 @@
 # define version:
-GLOTTOLOG=v4.2.1
-CONCEPTICON=v2.3.0
-
-# old repositories:
-#PARABANK_REPO=https://github.com/parabank/parabank-kinship-data
-#VARIKIN_REPO=https://github.com/SamPassmore/varikin-kinbank
+GLOTTOLOG=v4.4
+CONCEPTICON=v2.5.0
 
 .PHONY: help clean update test
 
