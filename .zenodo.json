@@ -1,0 +1,68 @@
+{
+    "access_right": "open",
+    "contributors": [
+        {
+            "name": "Sam Passmore",
+            "type": "DataCurator"
+        }
+    ],
+    "keywords": [
+        "cultural-heritage"
+    ],
+    "upload_type": "dataset",
+    "creators": [
+      {
+        "name": "Sam Passmore"
+      }, 
+      {
+        "name": "Catherine Sheard"
+      }, 
+      {
+        "name": "Paraskevi Argyriou"
+      }, 
+      {
+        "name": "Claire Bowern"
+      }, 
+      {
+        "name": "Jasmine Calladine"
+      }, 
+      {
+        "name": "Angarika Deb"
+      }, 
+      {
+        "name": "Anouk Diederen"
+      }, 
+      {
+        "name": "Jo Hickey-Hall"
+      }, 
+      {
+        "name": "Terhi Honkola"
+      }, 
+      {
+        "name": "Alice Mitchell"
+      }, 
+      {
+        "name": "Lucy Poole"
+      }, 
+      {
+        "name": "Péter Rácz"
+      }, 
+      {
+        "name": "Sean Roberts"
+      },
+      {
+        "name": "Robert Ross"
+      },
+      {
+        "name": "Ewan Thomas-Colquhoun"
+      },
+      {
+        "name": "Fiona M Jordan"
+      }
+    ],
+    "title": "Varikin: A global collection of kinship terminology",
+    "description": "<p>The data repository for the Varikin dataset </p>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
