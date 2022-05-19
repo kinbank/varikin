@@ -1,6 +1,8 @@
 Varikin
 ============================
 
+[![DOI](https://zenodo.org/badge/342100516.svg)](https://zenodo.org/badge/latestdoi/342100516)
+
 This repository contains kinship terminology from the Varikin project.
 
 
