@@ -4,7 +4,7 @@ v_aghulaghu1253,Aghul_aghu1253,aghu1253,agx,Aghul,Nakh-Daghestanian,41.9242,47.5
 v_aguarunaagua1253,Aguaruna_agua1253,agua1253,agr,Aguaruna,,-5.30044,-77.9218,varikin,Aguaruna_agua1253.txt,NA,,NA,Varikin
 v_akhvakhnorthernakhvakhakhv1239,Akhvakh_Northern_Akhvakh__akhv1239,akhv1239,akv,Akhvakh,Nakh-Daghestanian,42.4003,46.3037,varikin,Akhvakh_Northern_Akhvakh__akhv1239.txt,NA,,NA,Varikin
 v_akkadianakka1240,Akkadian_akka1240,akka1240,akk,Akkadian,Afro-Asiatic,33.1,44.1,varikin,Akkadian_akka1240.txt,NA,,NA,Varikin
-v_albanianalba1267,Albanian_alba1267,alba1267,sqi,Albanian,Indo-European,NA,NA,varikin,Albanian_alba1267.txt,NA,,NA,Varikin
+v_albanianalba1267,Albanian_alba1267,alba1267,sqi,Albanian,Indo-European,,,varikin,Albanian_alba1267.txt,NA,,NA,Varikin
 v_albaniantosktosk1239,Albanian_Tosk__tosk1239,tosk1239,als,Northern Tosk Albanian,Indo-European,41,20,varikin,Albanian_Tosk__tosk1239.txt,NA,,NA,Varikin
 v_alyawarralya1239,Alyawarr_alya1239,alya1239,aly,Alyawarr,Pama-Nyungan,-21.0427,136.835,varikin,Alyawarr_alya1239.txt,NA,,NA,Varikin
 v_amharicamha1245,Amharic_amha1245,amha1245,amh,Amharic,Afro-Asiatic,11.708182,39.543456,varikin,Amharic_amha1245.txt,NA,,NA,Varikin
@@ -20,12 +20,12 @@ v_assameseassa1263,Assamese_assa1263,assa1263,asm,Assamese,Indo-European,26.0876
 v_asutanzaniaasut1235,Asu_Tanzania__asut1235,asut1235,asa,Asu (Tanzania),Atlantic-Congo,-4.17978,37.8323,varikin,Asu_Tanzania__asut1235.txt,NA,,NA,Varikin
 v_atayalatay1247,Atayal_atay1247,atay1247,tay,Atayal,Austronesian,24.5209,121.388,varikin,Atayal_atay1247.txt,NA,,NA,Varikin
 v_atsugewiatsu1245,Atsugewi_atsu1245,atsu1245,atw,Atsugewi,,40.4271,-120.661,varikin,Atsugewi_atsu1245.txt,NA,,NA,Varikin
-v_avarancuxancu1238,Avar_Ancux__ancu1238,ancu1238,,Ancux,Nakh-Daghestanian,NA,NA,varikin,Avar_Ancux__ancu1238.txt,NA,,NA,Varikin
-v_avarandalalanda1281,Avar_Andalal__anda1281,anda1281,,Andalal-Gxdatl,Nakh-Daghestanian,NA,NA,varikin,Avar_Andalal__anda1281.txt,NA,,NA,Varikin
+v_avarancuxancu1238,Avar_Ancux__ancu1238,ancu1238,,Ancux,Nakh-Daghestanian,,,varikin,Avar_Ancux__ancu1238.txt,NA,,NA,Varikin
+v_avarandalalanda1281,Avar_Andalal__anda1281,anda1281,,Andalal-Gxdatl,Nakh-Daghestanian,,,varikin,Avar_Andalal__anda1281.txt,NA,,NA,Varikin
 v_avaravar1256,Avar_avar1256,avar1256,ava,Avar,Nakh-Daghestanian,41.7047,46.558,varikin,Avar_avar1256.txt,NA,,NA,Varikin
-v_avarbatluxbatl1238,Avar_Batlux__batl1238,batl1238,,Batlux,Nakh-Daghestanian,NA,NA,varikin,Avar_Batlux__batl1238.txt,NA,,NA,Varikin
-v_avarhiddialecthidd1238,Avar_Hid_dialect__hidd1238,hidd1238,,Hid,Nakh-Daghestanian,NA,NA,varikin,Avar_Hid_dialect__hidd1238.txt,NA,,NA,Varikin
-v_avazkhunzakhkunz1243,Avaz_Khunzakh__kunz1243,kunz1243,,Kunzakh,Nakh-Daghestanian,NA,NA,varikin,Avaz_Khunzakh__kunz1243.txt,NA,,NA,Varikin
+v_avarbatluxbatl1238,Avar_Batlux__batl1238,batl1238,,Batlux,Nakh-Daghestanian,,,varikin,Avar_Batlux__batl1238.txt,NA,,NA,Varikin
+v_avarhiddialecthidd1238,Avar_Hid_dialect__hidd1238,hidd1238,,Hid,Nakh-Daghestanian,,,varikin,Avar_Hid_dialect__hidd1238.txt,NA,,NA,Varikin
+v_avazkhunzakhkunz1243,Avaz_Khunzakh__kunz1243,kunz1243,,Kunzakh,Nakh-Daghestanian,,,varikin,Avaz_Khunzakh__kunz1243.txt,NA,,NA,Varikin
 v_avestanaves1237,Avestan_aves1237,aves1237,ave,Avestan,Indo-European,31.541,53.633,varikin,Avestan_aves1237.txt,NA,,NA,Varikin
 v_ayoreoayor1240,Ayoreo_ayor1240,ayor1240,ayo,Ayoreo,,-19.220055,-60.217495,varikin,Ayoreo_ayor1240.txt,NA,,NA,Varikin
 v_aztecclas1250,Aztec_clas1250,clas1250,nci,Classical Nahuatl,Uto-Aztecan,19.72,-96.97,varikin,Aztec_clas1250.txt,NA,,NA,Varikin
@@ -33,14 +33,14 @@ v_badimayabadi1246,Badimaya_badi1246,badi1246,bia,Badimaya,Pama-Nyungan,-29.0647
 v_bafiabafi1243,Bafia_bafi1243,bafi1243,ksf,Bafia,Atlantic-Congo,4.72603,11.0982,varikin,Bafia_bafi1243.txt,NA,,NA,Varikin
 v_bahvalalbagv1239,Bahvalal_bagv1239,bagv1239,kva,Bagvalal,Nakh-Daghestanian,42.3966,46.1041,varikin,Bahvalal_bagv1239.txt,NA,,NA,Varikin
 v_balicongobali1274,Bali_Congo__bali1274,bali1274,bcp,Bali (Democratic Republic of Congo),Atlantic-Congo,1.1807,26.5941,varikin,Bali_Congo__bali1274.txt,NA,,NA,Varikin
-v_balidrcbali1275,Bali_DRC__bali1275,bali1275,,Bali,Atlantic-Congo,NA,NA,varikin,Bali_DRC__bali1275.txt,NA,,NA,Varikin
-v_balochibalo1260,Balochi_balo1260,balo1260,,Balochic,Indo-European,NA,NA,varikin,Balochi_balo1260.txt,NA,,NA,Varikin
+v_balidrcbali1275,Bali_DRC__bali1275,bali1275,,Bali,Atlantic-Congo,,,varikin,Bali_DRC__bali1275.txt,NA,,NA,Varikin
+v_balochibalo1260,Balochi_balo1260,balo1260,,Balochic,Indo-European,,,varikin,Balochi_balo1260.txt,NA,,NA,Varikin
 v_bamunbamu1253,Bamun_bamu1253,bamu1253,bax,Bamun,Atlantic-Congo,5.49017,10.8477,varikin,Bamun_bamu1253.txt,NA,,NA,Varikin
 v_bandjalangband1339,Bandjalang_band1339,band1339,,Bandjalangic,Pama-Nyungan,-28.3458,152.859,varikin,Bandjalang_band1339.txt,NA,,NA,Varikin
-v_bannockbann1248,Bannock_bann1248,bann1248,,Bannock,Uto-Aztecan,NA,NA,varikin,Bannock_bann1248.txt,NA,,NA,Varikin
+v_bannockbann1248,Bannock_bann1248,bann1248,,Bannock,Uto-Aztecan,,,varikin,Bannock_bann1248.txt,NA,,NA,Varikin
 v_baribari1297,Bari_bari1297,bari1297,mot,Barí,,9.08497,-72.9353,varikin,Bari_bari1297.txt,NA,,NA,Varikin
 v_basquebasq1248,Basque_basq1248,basq1248,eus,Basque,,43.2787,-1.31622,varikin,Basque_basq1248.txt,NA,,NA,Varikin
-v_basquewest1508,Basque_west1508,west1508,,Western Low Navarrese,,NA,NA,varikin,Basque_west1508.txt,NA,,NA,Varikin
+v_basquewest1508,Basque_west1508,west1508,,Western Low Navarrese,,,,varikin,Basque_west1508.txt,NA,,NA,Varikin
 v_batangabata1285,Batanga_bata1285,bata1285,bnm,Batanga,Atlantic-Congo,1.397041,9.51011,varikin,Batanga_bata1285.txt,NA,,NA,Varikin
 v_batstsovatushbats1242,Bats_Tsova_Tush__bats1242,bats1242,bbl,Bats,Nakh-Daghestanian,42.1806,45.344,varikin,Bats_Tsova_Tush__bats1242.txt,NA,,NA,Varikin
 v_baurebaur1253,Baure_baur1253,baur1253,brg,Baure,Arawakan,-13.1278,-64.1838,varikin,Baure_baur1253.txt,NA,,NA,Varikin
@@ -51,7 +51,7 @@ v_bendebend1258,Bende_bend1258,bend1258,bdp,Bende,Atlantic-Congo,-6.22082,30.592
 v_bengalibeng1280,Bengali_beng1280,beng1280,ben,Bengali,Indo-European,24,90,varikin,Bengali_beng1280.txt,NA,,NA,Varikin
 v_berabera1259,Bera_bera1259,bera1259,brf,Bera,Atlantic-Congo,1.50054,30.0293,varikin,Bera_bera1259.txt,NA,,NA,Varikin
 v_bezhtabezh1248,Bezhta_bezh1248,bezh1248,kap,Bezhta,Nakh-Daghestanian,42.1206,46.0332,varikin,Bezhta_bezh1248.txt,NA,,NA,Varikin
-v_biharibiha1245,Bihari_biha1245,biha1245,,Bihari,Indo-European,NA,NA,varikin,Bihari_biha1245.txt,NA,,NA,Varikin
+v_biharibiha1245,Bihari_biha1245,biha1245,,Bihari,Indo-European,,,varikin,Bihari_biha1245.txt,NA,,NA,Varikin
 v_bilabila1255,Bila_bila1255,bila1255,bip,Bila,Atlantic-Congo,1.16839,28.7626,varikin,Bila_bila1255.txt,NA,,NA,Varikin
 v_bindalbind1236,Bindal_bind1236,bind1236,,Bindal-Mount Elliot,Pama-Nyungan,-19.409007,147.002766,varikin,Bindal_bind1236.txt,NA,,NA,Varikin
 v_birhorbirh1242,Birhor_birh1242,birh1242,biy,Birhor,Austroasiatic,23.585,85.5611,varikin,Birhor_birh1242.txt,NA,,NA,Varikin
@@ -66,7 +66,7 @@ v_bulgarianbulg1262,Bulgarian_bulg1262,bulg1262,bul,Bulgarian,Indo-European,43.3
 v_bununbunu1267,Bunun_bunu1267,bunu1267,bnn,Bunun,Austronesian,23.4116,121.025,varikin,Bunun_bunu1267.txt,NA,,NA,Varikin
 v_burmesenucl1310,Burmese_nucl1310,nucl1310,mya,Burmese,Sino-Tibetan,20.7926,93.9665,varikin,Burmese_nucl1310.txt,NA,,NA,Varikin
 v_bushoongbush1247,Bushoong_bush1247,bush1247,buf,Bushoong,Atlantic-Congo,-4.69463,21.4556,varikin,Bushoong_bush1247.txt,NA,,NA,Varikin
-v_bwaidogabwai1243,Bwaidoga_bwai1243,bwai1243,,Bwaidoga,Austronesian,NA,NA,varikin,Bwaidoga_bwai1243.txt,NA,,NA,Varikin
+v_bwaidogabwai1243,Bwaidoga_bwai1243,bwai1243,,Bwaidoga,Austronesian,,,varikin,Bwaidoga_bwai1243.txt,NA,,NA,Varikin
 v_cahuillacahu1264,Cahuilla_cahu1264,cahu1264,chl,Cahuilla,Uto-Aztecan,33.5324,-116.691,varikin,Cahuilla_cahu1264.txt,NA,,NA,Varikin
 v_carnicobaresecarn1240,Car_Nicobarese_carn1240,carn1240,caq,Car Nicobarese,Austroasiatic,9.18853,92.7671,varikin,Car_Nicobarese_carn1240.txt,NA,,NA,Varikin
 v_carolinianscaro1242,Carolinians_caro1242,caro1242,cal,Carolinian,Austronesian,15.205,145.765,varikin,Carolinians_caro1242.txt,NA,,NA,Varikin
@@ -74,7 +74,7 @@ v_cayubabacayu1262,Cayubaba_cayu1262,cayu1262,cyb,Cayubaba,,-13.2482,-65.4822,va
 v_centralaymaracent2142,Central_Aymara_cent2142,cent2142,ayr,Central Aymara,,-17,-68.5,varikin,Central_Aymara_cent2142.txt,NA,,NA,Varikin
 v_centralkurdishcent1972,Central_Kurdish_cent1972,cent1972,ckb,Central Kurdish,Indo-European,35.6539,45.8077,varikin,Central_Kurdish_cent1972.txt,NA,,NA,Varikin
 v_chamalalcham1309,Chamalal_cham1309,cham1309,cji,Chamalal,Nakh-Daghestanian,42.5024,45.995,varikin,Chamalal_cham1309.txt,NA,,NA,Varikin
-v_chamalalgigatligiga1238,Chamalal_Gigatli__giga1238,giga1238,,Gigatl,Nakh-Daghestanian,NA,NA,varikin,Chamalal_Gigatli__giga1238.txt,NA,,NA,Varikin
+v_chamalalgigatligiga1238,Chamalal_Gigatli__giga1238,giga1238,,Gigatl,Nakh-Daghestanian,,,varikin,Chamalal_Gigatli__giga1238.txt,NA,,NA,Varikin
 v_chapalaachac1249,Cha_palaa_chac1249,chac1249,cbi,Cha'palaa,,0.71489,-79.0508,varikin,Cha_palaa_chac1249.txt,NA,,NA,Varikin
 v_chemehuevichem1251,Chemehuevi_chem1251,chem1251,,Chemehuevi,Uto-Aztecan,35.356093,-116.438436,varikin,Chemehuevi_chem1251.txt,NA,,NA,Varikin
 v_chenchuchen1255,Chenchu_chen1255,chen1255,cde,Chenchu,Dravidian,15.8787,79.2534,varikin,Chenchu_chen1255.txt,NA,,NA,Varikin
@@ -98,7 +98,7 @@ v_czechczec1258,Czech_czec1258,czec1258,ces,Czech,Indo-European,49.873398,15.104
 v_dandamimariadand1238,Dandami_Maria_dand1238,dand1238,daq,Dandami Maria,Dravidian,18.7475,81.3598,varikin,Dandami_Maria_dand1238.txt,NA,,NA,Varikin
 v_danishdani1285,Danish_dani1285,dani1285,dan,Danish,Indo-European,54.8655,9.36284,varikin,Danish_dani1285.txt,NA,,NA,Varikin
 v_dargwachiragchir1284,Dargwa_Chirag__chir1284,chir1284,,Chirag,Nakh-Daghestanian,41.869481,47.41111,varikin,Dargwa_Chirag__chir1284.txt,NA,,NA,Varikin
-v_dargwaitsariitsa1239,Dargwa_Itsari__itsa1239,icar1234,,Icari,Nakh-Daghestanian,NA,NA,varikin,Dargwa_Itsari__itsa1239.txt,NA,,NA,Varikin
+v_dargwaitsariitsa1239,Dargwa_Itsari__itsa1239,icar1234,,Icari,Nakh-Daghestanian,,,varikin,Dargwa_Itsari__itsa1239.txt,NA,,NA,Varikin
 v_daridari1249,Dari_dari1249,dari1249,prs,Dari,Indo-European,31.0405,67.3593,varikin,Dari_dari1249.txt,NA,,NA,Varikin
 v_degexitandege1248,Degexit_an_dege1248,dege1248,ing,Degexit'an,,62.0697,-160.044,varikin,Degexit_an_dege1248.txt,NA,,NA,Varikin
 v_delinenort2942,Délįne_nort2942,nort2942,scs,North Slavey,,63.2671,-123.641,varikin,Délįne_nort2942.txt,NA,,NA,Varikin
@@ -120,7 +120,7 @@ v_easterislandersrapa1244,Easter_Islanders_rapa1244,rapa1244,rap,Rapanui,Austron
 v_easternarmenianeast2283,Eastern_Armenian_east2283,nucl1235,hye,Eastern Armenian,Indo-European,40,45,varikin,Eastern_Armenian_east2283.txt,NA,,NA,Varikin
 v_easternpaharinepalieast1436,Eastern_Pahari_Nepali__east1436,east1436,nep,Eastern Pahari,Indo-European,27.59470333,87.62008333,varikin,Eastern_Pahari_Nepali__east1436.txt,NA,,NA,Varikin
 v_easternyiddisheast2295,Eastern_Yiddish_east2295,east2295,ydd,Eastern Yiddish,Indo-European,51.75,19.42,varikin,Eastern_Yiddish_east2295.txt,NA,,NA,Varikin
-v_ekondamongoekon1238,Ekonda_Mongo_ekon1238,ekon1238,,Ekonda Mongo,Atlantic-Congo,NA,NA,varikin,Ekonda_Mongo_ekon1238.txt,NA,,NA,Varikin
+v_ekondamongoekon1238,Ekonda_Mongo_ekon1238,ekon1238,,Ekonda Mongo,Atlantic-Congo,,,varikin,Ekonda_Mongo_ekon1238.txt,NA,,NA,Varikin
 v_elamiteelam1244,Elamite_elam1244,elam1244,elx,Elamite,,31.1833,48.2333,varikin,Elamite_elam1244.txt,NA,,NA,Varikin
 v_ellicetuva1244,Ellice_tuva1244,tuva1244,tvl,Tuvalu,Austronesian,-8.520813,179.198088,varikin,Ellice_tuva1244.txt,NA,,NA,Varikin
 v_epenaepen1239,Epena_epen1239,epen1239,sja,Epena,,4.25877,-77.3566,varikin,Epena_epen1239.txt,NA,,NA,Varikin
@@ -133,14 +133,14 @@ v_fefefefe1239,Fefe_fefe1239,fefe1239,fmp,Fe'fe',Atlantic-Congo,5.18158,10.1442,
 v_finnicfinn1318,Finnic_finn1318,finn1318,fin,Finnish,Uralic,64.7628,25.5577,varikin,Finnic_finn1318.txt,NA,,NA,Varikin
 v_fipafipa1238,Fipa_fipa1238,fipa1238,fip,Fipa,Atlantic-Congo,-7.88963,31.3442,varikin,Fipa_fipa1238.txt,NA,,NA,Varikin
 v_flindersislandflin1247,FlindersIsland_flin1247,flin1247,fln,Flinders Island,Pama-Nyungan,-14.1812,144.259,varikin,FlindersIsland_flin1247.txt,NA,,NA,Varikin
-v_frisianfris1239,Frisian_fris1239,fris1239,,Frisian,Indo-European,NA,NA,varikin,Frisian_fris1239.txt,NA,,NA,Varikin
+v_frisianfris1239,Frisian_fris1239,fris1239,,Frisian,Indo-European,,,varikin,Frisian_fris1239.txt,NA,,NA,Varikin
 v_futunanseast2447,Futunans_east2447,east2447,fud,East Futuna,Austronesian,-14.278717,-178.137222,varikin,Futunans_east2447.txt,NA,,NA,Varikin
 v_gabrielinotong1329,Gabrielino_tong1329,tong1329,xgf,Tongva,Uto-Aztecan,34.1,-118.11,varikin,Gabrielino_tong1329.txt,NA,,NA,Varikin
 v_gandagand1255,Ganda_gand1255,gand1255,lug,Ganda,Atlantic-Congo,0.66884,32.15153,varikin,Ganda_gand1255.txt,NA,,NA,Varikin
 v_giryamagiry1241,Giryama_giry1241,giry1241,nyf,Giryama,Atlantic-Congo,-3.30638,39.6648,varikin,Giryama_giry1241.txt,NA,,NA,Varikin
 v_godoberighod1238,Godoberi_ghod1238,ghod1238,gdo,Godoberi,Nakh-Daghestanian,42.7428,46.2252,varikin,Godoberi_ghod1238.txt,NA,,NA,Varikin
 v_gogogogo1263,Gogo_gogo1263,gogo1263,gog,Gogo,Atlantic-Congo,-6.35951,35.4807,varikin,Gogo_gogo1263.txt,NA,,NA,Varikin
-v_gondigond1265,Gondi_gond1265,gond1265,,Gondi,Dravidian,NA,NA,varikin,Gondi_gond1265.txt,NA,,NA,Varikin
+v_gondigond1265,Gondi_gond1265,gond1265,,Gondi,Dravidian,,,varikin,Gondi_gond1265.txt,NA,,NA,Varikin
 v_gothicgoth1244,Gothic_goth1244,goth1244,got,Gothic,Indo-European,46.9304,29.9786,varikin,Gothic_goth1244.txt,NA,,NA,Varikin
 v_guarijiohuar1255,Guarijio_huar1255,huar1255,var,Huarijio,Uto-Aztecan,27.8685,-108.437,varikin,Guarijio_huar1255.txt,NA,,NA,Varikin
 v_gujaratiguja1252,Gujarati_guja1252,guja1252,guj,Gujarati,Indo-European,22.687,71.0962,varikin,Gujarati_guja1252.txt,NA,,NA,Varikin
@@ -165,17 +165,17 @@ v_hittitehitt1242,Hittite_hitt1242,hitt1242,hit,Hittite,Indo-European,40,35,vari
 v_hopihopi1249,Hopi_hopi1249,hopi1249,hop,Hopi,Uto-Aztecan,35.7653,-110.535,varikin,Hopi_hopi1249.txt,NA,,NA,Varikin
 v_hopishopi1249b,Hopi_S__hopi1249b,hopi1249,hop,Hopi,Uto-Aztecan,35.7653,-110.535,varikin,Hopi_S__hopi1249b.txt,NA,,NA,Varikin
 v_hotiyuwanayuwa1244,Hoti_Yuwana__yuwa1244,yuwa1244,yau,Hoti,,5.63879,-65.4267,varikin,Hoti_Yuwana__yuwa1244.txt,NA,,NA,Varikin
-v_huastecnahuatlhuas1257,Huastec_Nahuatl_huas1257,huas1257,,Huasteca Nahuatl,Uto-Aztecan,NA,NA,varikin,Huastec_Nahuatl_huas1257.txt,NA,,NA,Varikin
+v_huastecnahuatlhuas1257,Huastec_Nahuatl_huas1257,huas1257,,Huasteca Nahuatl,Uto-Aztecan,,,varikin,Huastec_Nahuatl_huas1257.txt,NA,,NA,Varikin
 v_huicholhuic1243,Huichol_huic1243,huic1243,hch,Huichol,Uto-Aztecan,21.954,-104.062,varikin,Huichol_huic1243.txt,NA,,NA,Varikin
 v_hunzibhunz1247,Hunzib_hunz1247,hunz1247,huz,Hunzib,Nakh-Daghestanian,42.0808,46.1369,varikin,Hunzib_hunz1247.txt,NA,,NA,Varikin
 v_hupahupa1239,Hupa_hupa1239,hupa1239,hup,Hupa-Chilula,,41.0982,-123.68,varikin,Hupa_hupa1239.txt,NA,,NA,Varikin
 v_icelandicicel1247,Icelandic_icel1247,icel1247,isl,Icelandic,Indo-European,63.4837,-19.0212,varikin,Icelandic_icel1247.txt,NA,,NA,Varikin
-v_ifaluknuclearwoleaiannucl1479,Ifaluk_Nuclear_Woleaian__nucl1479,nucl1479,,Nuclear Woleaian,Austronesian,NA,NA,varikin,Ifaluk_Nuclear_Woleaian__nucl1479.txt,NA,,NA,Varikin
+v_ifaluknuclearwoleaiannucl1479,Ifaluk_Nuclear_Woleaian__nucl1479,nucl1479,,Nuclear Woleaian,Austronesian,,,varikin,Ifaluk_Nuclear_Woleaian__nucl1479.txt,NA,,NA,Varikin
 v_igbonucl1417,Igbo_nucl1417,nucl1417,ibo,Igbo,Atlantic-Congo,4.62705,7.23441,varikin,Igbo_nucl1417.txt,NA,,NA,Varikin
 v_ignacianoigna1246,Ignaciano_igna1246,igna1246,ign,Ignaciano,Arawakan,-15.1188,-65.3993,varikin,Ignaciano_igna1246.txt,NA,,NA,Varikin
 v_ingrianingr1248,Ingrian_ingr1248,ingr1248,izh,Ingrian,Uralic,59.47403,29.71145,varikin,Ingrian_ingr1248.txt,NA,,NA,Varikin
 v_ingushingu1240,Ingush_ingu1240,ingu1240,inh,Ingush,Nakh-Daghestanian,43.11,45.03,varikin,Ingush_ingu1240.txt,NA,,NA,Varikin
-v_inxokvariinxo1238,Inxokvari_inxo1238,inxo1238,,Inxokvari,Nakh-Daghestanian,NA,NA,varikin,Inxokvari_inxo1238.txt,NA,,NA,Varikin
+v_inxokvariinxo1238,Inxokvari_inxo1238,inxo1238,,Inxokvari,Nakh-Daghestanian,,,varikin,Inxokvari_inxo1238.txt,NA,,NA,Varikin
 v_irishiris1253,Irish_iris1253,iris1253,gle,Irish,Indo-European,53.2186,-7.61509,varikin,Irish_iris1253.txt,NA,,NA,Varikin
 v_italianital1282,Italian_ital1282,ital1282,ita,Italian,Indo-European,43.0464,12.6489,varikin,Italian_ital1282.txt,NA,,NA,Varikin
 v_itonamaiton1250,Itonama_iton1250,iton1250,ito,Itonama,,-12.80431,-64.35748,varikin,Itonama_iton1250.txt,NA,,NA,Varikin
@@ -196,8 +196,8 @@ v_kapingamarangikapi1249,Kapingamarangi_kapi1249,kapi1249,kpg,Kapingamarangi,Aus
 v_karajarrikara1476,Karajarri_kara1476,kara1476,gbd,Karadjeri,Pama-Nyungan,-18.6771,122.334,varikin,Karajarri_kara1476.txt,NA,,NA,Varikin
 v_kariyarrakari1304,Kariyarra_kari1304,kari1304,vka,Kariyarra,Pama-Nyungan,-20.445,118.613,varikin,Kariyarra_kari1304.txt,NA,,NA,Varikin
 v_karokkaro1304,Karok_karo1304,karo1304,kyh,Karok,,41.8228,-123.315,varikin,Karok_karo1304.txt,NA,,NA,Varikin
-v_kartujarrakart1247,Kartujarra_kart1247,kart1247,,Kartujarra,Pama-Nyungan,NA,NA,varikin,Kartujarra_kart1247.txt,NA,,NA,Varikin
-v_karuwalikarr1236,Karuwali_karr1236,karr1236,rxw,Karruwali,Pama-Nyungan,NA,NA,varikin,Karuwali_karr1236.txt,NA,,NA,Varikin
+v_kartujarrakart1247,Kartujarra_kart1247,kart1247,,Kartujarra,Pama-Nyungan,,,varikin,Kartujarra_kart1247.txt,NA,,NA,Varikin
+v_karuwalikarr1236,Karuwali_karr1236,karr1236,rxw,Karruwali,Pama-Nyungan,,,varikin,Karuwali_karr1236.txt,NA,,NA,Varikin
 v_kashmirikash1277,Kashmiri_kash1277,kash1277,kas,Kashmiri,Indo-European,34.166825,74.330455,varikin,Kashmiri_kash1277.txt,NA,,NA,Varikin
 v_kaurnakaur1267,Kaurna_kaur1267,kaur1267,zku,Kaurna,Pama-Nyungan,-34.34966141,138.4800794,varikin,Kaurna_kaur1267.txt,NA,,NA,Varikin
 v_kawaiisukawa1283,Kawaiisu_kawa1283,kawa1283,xaw,Kawaiisu,Uto-Aztecan,36.0538,-118.679,varikin,Kawaiisu_kawa1283.txt,NA,,NA,Varikin
@@ -225,7 +225,7 @@ v_kurukhkuru1302,Kurukh_kuru1302,kuru1302,kru,Kurukh,Dravidian,24.4644,86.4657,v
 v_kuvikuvi1243,Kuvi_kuvi1243,kuvi1243,kxv,Kuvi,Dravidian,18.8832,83.7552,varikin,Kuvi_kuvi1243.txt,NA,,NA,Varikin
 v_kwasiokwas1243,Kwasio_kwas1243,kwas1243,nmg,Kwasio,Atlantic-Congo,2.39354,10.0812,varikin,Kwasio_kwas1243.txt,NA,,NA,Varikin
 v_kwerekwer1261,Kwere_kwer1261,kwer1261,cwe,Kwere,Atlantic-Congo,-6.50666,38.4449,varikin,Kwere_kwer1261.txt,NA,,NA,Varikin
-v_lahndalahn1241,Lahnda_lahn1241,lahn1241,,Lahnda,Indo-European,NA,NA,varikin,Lahnda_lahn1241.txt,NA,,NA,Varikin
+v_lahndalahn1241,Lahnda_lahn1241,lahn1241,,Lahnda,Indo-European,,,varikin,Lahnda_lahn1241.txt,NA,,NA,Varikin
 v_lakemiwoklake1258,Lake_Miwok_lake1258,lake1258,lmw,Lake Miwok,,39.0021,-122.621,varikin,Lake_Miwok_lake1258.txt,NA,,NA,Varikin
 v_lalabisalala1264,Lala_Bisa_lala1264,lala1264,leb,Lala-Bisa,Atlantic-Congo,-12.945,30.2297,varikin,Lala_Bisa_lala1264.txt,NA,,NA,Varikin
 v_lambalamb1271,Lamba_lamb1271,lamb1271,lam,Lamba,Atlantic-Congo,-12.3366,27.9026,varikin,Lamba_lamb1271.txt,NA,,NA,Varikin
@@ -303,7 +303,7 @@ v_ngarlangar1286,Ngarla_ngar1286,yinh1234,ywg,Yinhawangka,Pama-Nyungan,-22.9178,
 v_ngarlumangar1287,Ngarluma_ngar1287,ngar1287,nrl,Ngarluma,Pama-Nyungan,-20.9235,117.203,varikin,Ngarluma_ngar1287.txt,NA,,NA,Varikin
 v_ngarrindjerinarr1259,Ngarrindjeri_narr1259,narr1259,nay,Narrinyeri,Pama-Nyungan,-36.2301,140.158,varikin,Ngarrindjeri_narr1259.txt,NA,,NA,Varikin
 v_ngiyambaawang1291,Ngiyambaa_wang1291,wang1291,wyb,Ngiyambaa,Pama-Nyungan,-30.6481,146.18,varikin,Ngiyambaa_wang1291.txt,NA,,NA,Varikin
-v_ngombebinjabinj1250,Ngombe_Binja_binj1250,binj1250,,Binja,Atlantic-Congo,NA,NA,varikin,Ngombe_Binja_binj1250.txt,NA,,NA,Varikin
+v_ngombebinjabinj1250,Ngombe_Binja_binj1250,binj1250,,Binja,Atlantic-Congo,,,varikin,Ngombe_Binja_binj1250.txt,NA,,NA,Varikin
 v_ngoningon1269,Ngoni_ngon1269,ngon1269,ngo,Ngoni,Atlantic-Congo,-11.7794,37.4118,varikin,Ngoni_ngon1269.txt,NA,,NA,Varikin
 v_ngulungul1246,Ngulu_ngul1246,ngul1246,ngp,Ngulu,Atlantic-Congo,-5.79734,37.6823,varikin,Ngulu_ngul1246.txt,NA,,NA,Varikin
 v_nhantanhan1238,Nhanta_nhan1238,nhan1238,nha,Nhanda,Pama-Nyungan,-27.42523643,114.2680442,varikin,Nhanta_nhan1238.txt,NA,,NA,Varikin
@@ -323,7 +323,7 @@ v_northernpomonort2966,Northern_Pomo_nort2966,nort2966,pej,Northern Pomo,,39.108
 v_northernsaminort2671,Northern_Sami_nort2671,nort2671,sme,North Saami,Uralic,68.725,22.1113,varikin,Northern_Sami_nort2671.txt,NA,,NA,Varikin
 v_northerntepehuannort2959,Northern_Tepehuan_nort2959,nort2959,ntp,Northern Tepehuan,Uto-Aztecan,26.4348,-107.379,varikin,Northern_Tepehuan_nort2959.txt,NA,,NA,Varikin
 v_northmarquesannort2845,North_Marquesan_nort2845,nort2845,mrq,North Marquesan,Austronesian,-8.89412,-140.108,varikin,North_Marquesan_nort2845.txt,NA,,NA,Varikin
-v_northnorthernpaiutenort1551,North_Northern_Paiute_nort1551,nort1551,,North Northern Paiute,Uto-Aztecan,NA,NA,varikin,North_Northern_Paiute_nort1551.txt,NA,,NA,Varikin
+v_northnorthernpaiutenort1551,North_Northern_Paiute_nort1551,nort1551,,North Northern Paiute,Uto-Aztecan,,,varikin,North_Northern_Paiute_nort1551.txt,NA,,NA,Varikin
 v_northwesternmaidunort2951,Northwestern_Maidu_nort2951,nort2951,mjd,Northwest Maidu,,39.6721,-121.368,varikin,Northwestern_Maidu_nort2951.txt,NA,,NA,Varikin
 v_norwegianbokmalnorw1259,Norwegian_Bokmål_norw1259,norw1259,nob,Norwegian Bokmål,Indo-European,61.112,8.886,varikin,Norwegian_Bokmål_norw1259.txt,NA,,NA,Varikin
 v_nsongsong1299,Nsong_song1299,song1299,soo,Nsong,Atlantic-Congo,-4.55057,18.4978,varikin,Nsong_song1299.txt,NA,,NA,Varikin
@@ -347,16 +347,16 @@ v_opataopat1246,Opata_opat1246,opat1246,opt,Teguima,Uto-Aztecan,31.15211,-110.06
 v_oriyaoriy1255,Oriya_oriy1255,oriy1255,ory,Odia,Indo-European,21,85,varikin,Oriya_oriy1255.txt,NA,,NA,Varikin
 v_orokoorok1266,Oroko_orok1266,orok1266,bdu,Oroko,Atlantic-Congo,4.89504,9.15209,varikin,Oroko_orok1266.txt,NA,,NA,Varikin
 v_ossetianosse1243,Ossetian_osse1243,osse1243,,Modern Ossetic,Indo-European,42.98,44.61,varikin,Ossetian_osse1243.txt,NA,,NA,Varikin
-v_osseticosse1245,Ossetic_osse1245,osse1245,,Ossetic,Indo-European,NA,NA,varikin,Ossetic_osse1245.txt,NA,,NA,Varikin
+v_osseticosse1245,Ossetic_osse1245,osse1245,,Ossetic,Indo-European,,,varikin,Ossetic_osse1245.txt,NA,,NA,Varikin
 v_paakantyidarl1243,Paakantyi_darl1243,darl1243,drl,Paakantyi,Pama-Nyungan,-32.7021,142.695,varikin,Paakantyi_darl1243.txt,NA,,NA,Varikin
 v_paezpaez1247,Páez_paez1247,paez1247,pbb,Páez,,2.61516,-76.31254,varikin,Páez_paez1247.txt,NA,,NA,Varikin
 v_paliyanpali1274,Paliyan_pali1274,pali1274,pcf,Paliyan,Dravidian,10.087,77.1863,varikin,Paliyan_pali1274.txt,NA,,NA,Varikin
 v_panjabipanj1256,Panjabi_panj1256,panj1256,pan,Eastern Panjabi,Indo-European,30.0368,75.6702,varikin,Panjabi_panj1256.txt,NA,,NA,Varikin
-v_pashtopash1269,Pashto_pash1269,pash1269,,Pashto,Indo-European,NA,NA,varikin,Pashto_pash1269.txt,NA,,NA,Varikin
+v_pashtopash1269,Pashto_pash1269,pash1269,,Pashto,Indo-European,,,varikin,Pashto_pash1269.txt,NA,,NA,Varikin
 v_payungubayu1240,Payungu_bayu1240,bayu1240,bxj,Bayungu,Pama-Nyungan,-23.3809,114.108,varikin,Payungu_bayu1240.txt,NA,,NA,Varikin
 v_phendephen1239,Phende_phen1239,phen1239,pem,Phende,Atlantic-Congo,-5.64735,19.8275,varikin,Phende_phen1239.txt,NA,,NA,Varikin
 v_pilagapila1245,Pilagá_pila1245,pila1245,plg,Pilagá,,-25.0058,-60.1537,varikin,Pilagá_pila1245.txt,NA,,NA,Varikin
-v_pimadeyepachicchih1238,Pima_de_Yepáchic_chih1238,chih1238,,Chihuahua Pima Bajo,Uto-Aztecan,NA,NA,varikin,Pima_de_Yepáchic_chih1238.txt,NA,,NA,Varikin
+v_pimadeyepachicchih1238,Pima_de_Yepáchic_chih1238,chih1238,,Chihuahua Pima Bajo,Uto-Aztecan,,,varikin,Pima_de_Yepáchic_chih1238.txt,NA,,NA,Varikin
 v_pinjipinj1243,Pinji_pinj1243,pinj1243,pic,Pinji,Atlantic-Congo,-1.90305,11.223,varikin,Pinji_pinj1243.txt,NA,,NA,Varikin
 v_pintupiluritjapint1250,PintupiLuritja_pint1250,pint1250,piu,Pintupi-Luritja,Pama-Nyungan,-23.2963,130.643,varikin,PintupiLuritja_pint1250.txt,NA,,NA,Varikin
 v_pipilpipi1250,Pipil_pipi1250,pipi1250,ppl,Pipil,Uto-Aztecan,13.8931,-89.443,varikin,Pipil_pipi1250.txt,NA,,NA,Varikin
@@ -382,7 +382,7 @@ v_rotinesetermanuterm1237,Rotinese_Termanu__term1237,term1237,twu,Termanu,Austro
 v_rotumansrotu1241,Rotumans_rotu1241,rotu1241,rtm,Rotuman,Austronesian,-12.5008,177.066,varikin,Rotumans_rotu1241.txt,NA,,NA,Varikin
 v_rundirund1242,Rundi_rund1242,rund1242,run,Rundi,Atlantic-Congo,-2.94,29.97,varikin,Rundi_rund1242.txt,NA,,NA,Varikin
 v_russianruss1263,Russian_russ1263,russ1263,rus,Russian,Indo-European,59,50,varikin,Russian_russ1263.txt,NA,,NA,Varikin
-v_rutulshin1265,Rutul_shin1265,shin1265,,Shina (Nakh-Daghestan),Nakh-Daghestanian,NA,NA,varikin,Rutul_shin1265.txt,NA,,NA,Varikin
+v_rutulshin1265,Rutul_shin1265,shin1265,,Shina (Nakh-Daghestan),Nakh-Daghestanian,,,varikin,Rutul_shin1265.txt,NA,,NA,Varikin
 v_saasaaa1240,Sa_a_saaa1240,saaa1240,apb,Sa'a,Austronesian,-9.60258,161.467,varikin,Sa_a_saaa1240.txt,NA,,NA,Varikin
 v_sakatasaka1287,Sakata_saka1287,saka1287,skt,Sakata,Atlantic-Congo,-2.85653,17.9669,varikin,Sakata_saka1287.txt,NA,,NA,Varikin
 v_sakesake1247,Sake_sake1247,sake1247,sak,Sake,Atlantic-Congo,0.25188,11.787,varikin,Sake_sake1247.txt,NA,,NA,Varikin
@@ -393,7 +393,7 @@ v_sangusang1333,Sangu_sang1333,sang1333,snq,Sangu (Gabon),Atlantic-Congo,-1.5269
 v_sangutanzaniasang1330,Sangu_Tanzania__sang1330,sang1330,sbp,Sangu (Tanzania),Atlantic-Congo,-8.4,33.9,varikin,Sangu_Tanzania__sang1330.txt,NA,,NA,Varikin
 v_sansalvadorkongosans1272,San_Salvador_Kongo_sans1272,sans1272,kwy,Cimbala-Cizali,Atlantic-Congo,-5.33539,13.3587,varikin,San_Salvador_Kongo_sans1272.txt,NA,,NA,Varikin
 v_sanskritsans1269,Sanskrit_sans1269,sans1269,san,Sanskrit,Indo-European,20,77,varikin,Sanskrit_sans1269.txt,NA,,NA,Varikin
-v_sardiniansard1257,Sardinian_sard1257,sard1257,,Sardinian,Indo-European,NA,NA,varikin,Sardinian_sard1257.txt,NA,,NA,Varikin
+v_sardiniansard1257,Sardinian_sard1257,sard1257,,Sardinian,Indo-European,,,varikin,Sardinian_sard1257.txt,NA,,NA,Varikin
 v_saterfriesischsate1242,Saterfriesisch_sate1242,sate1242,stq,Ems-Weser Frisian,Indo-European,53.117,7.721,varikin,Saterfriesisch_sate1242.txt,NA,,NA,Varikin
 v_sekiseki1238,Seki_seki1238,seki1238,syi,Seki,Atlantic-Congo,1.52302,9.79206,varikin,Seki_seki1238.txt,NA,,NA,Varikin
 v_selknamonaa1245,Selk_nam_onaa1245,onaa1245,ona,Selk'nam,,-54,-68.5,varikin,Selk_nam_onaa1245.txt,NA,,NA,Varikin
@@ -418,7 +418,7 @@ v_songoorasong1300,Songoora_song1300,song1300,sod,Songoora,Atlantic-Congo,-2.218
 v_southeasterntepehuanosout2976,Southeastern_Tepehuano_sout2976,sout2976,stp,Southeastern Tepehuan,Uto-Aztecan,23.1584,-103.983,varikin,Southeastern_Tepehuano_sout2976.txt,NA,,NA,Varikin
 v_southerncoastaltsimshiannucl1649,Southern_Coastal_Tsimshian_nucl1649,nucl1649,tsi,Southern-Coastal Tsimshian,,52.59103,-128.544545,varikin,Southern_Coastal_Tsimshian_nucl1649.txt,NA,,NA,Varikin
 v_southernpaiutesout2969,Southern_Paiute_sout2969,sout2969,,Southern Paiute,Uto-Aztecan,37,-114,varikin,Southern_Paiute_sout2969.txt,NA,,NA,Varikin
-v_southerntepehuansout2975,Southern_Tepehuan_sout2975,sout2975,,Southern Tepehuan,Uto-Aztecan,NA,NA,varikin,Southern_Tepehuan_sout2975.txt,NA,,NA,Varikin
+v_southerntepehuansout2975,Southern_Tepehuan_sout2975,sout2975,,Southern Tepehuan,Uto-Aztecan,,,varikin,Southern_Tepehuan_sout2975.txt,NA,,NA,Varikin
 v_southerntepehuanwsout2977,Southern_Tepehuan_W__sout2977,sout2977,tla,Southwestern Tepehuan,Uto-Aztecan,23.2553,-104.688,varikin,Southern_Tepehuan_W__sout2977.txt,NA,,NA,Varikin
 v_southernuteutee1244,Southern_Ute_utee1244,utee1244,,Ute,Uto-Aztecan,38,-109,varikin,Southern_Ute_utee1244.txt,NA,,NA,Varikin
 v_southmarquesansout2866,South_Marquesan_sout2866,sout2866,mqm,South Marquesan,Austronesian,-9.75663,-138.979,varikin,South_Marquesan_sout2866.txt,NA,,NA,Varikin
@@ -432,11 +432,11 @@ v_sukusuku1259,Suku_suku1259,suku1259,sub,Suku,Atlantic-Congo,-5.76495,17.7736,v
 v_sumbwasumb1240,Sumbwa_sumb1240,sumb1240,suw,Sumbwa,Atlantic-Congo,-3.47335,31.9457,varikin,Sumbwa_sumb1240.txt,NA,,NA,Varikin
 v_suundisuun1239,Suundi_suun1239,suun1239,sdj,Suundi,Atlantic-Congo,-4.58488,13.3212,varikin,Suundi_suun1239.txt,NA,,NA,Varikin
 v_swedishswed1254,Swedish_swed1254,swed1254,swe,Swedish,Indo-European,59.800634,17.389526,varikin,Swedish_swed1254.txt,NA,,NA,Varikin
-v_taabwashil1264,Taabwa_shil1264,shil1264,,Shila,Atlantic-Congo,NA,NA,varikin,Taabwa_shil1264.txt,NA,,NA,Varikin
+v_taabwashil1264,Taabwa_shil1264,shil1264,,Shila,Atlantic-Congo,,,varikin,Taabwa_shil1264.txt,NA,,NA,Varikin
 v_tahitianstahi1242,Tahitians_tahi1242,tahi1242,tah,Tahitian,Austronesian,-17.6485,-149.45,varikin,Tahitians_tahi1242.txt,NA,,NA,Varikin
 v_tajiktaji1245,Tajik_taji1245,taji1245,tgk,Tajik,Indo-European,38.8213,68.5549,varikin,Tajik_taji1245.txt,NA,,NA,Varikin
 v_tamiltami1289,Tamil_tami1289,tami1289,tam,Tamil,Dravidian,10.520219,78.825989,varikin,Tamil_tami1289.txt,NA,,NA,Varikin
-v_tanalatana1285,Tanala_tana1285,tana1285,,Tanala,Austronesian,NA,NA,varikin,Tanala_tana1285.txt,NA,,NA,Varikin
+v_tanalatana1285,Tanala_tana1285,tana1285,,Tanala,Austronesian,,,varikin,Tanala_tana1285.txt,NA,,NA,Varikin
 v_tarahumaracent2131,Tarahumara_cent2131,cent2131,tar,Central Tarahumara,Uto-Aztecan,27.5648,-107.154,varikin,Tarahumara_cent2131.txt,NA,,NA,Varikin
 v_tehuelchetehu1242,Tehuelche_tehu1242,tehu1242,teh,Tehuelche,,-47.5796,-68.3235,varikin,Tehuelche_tehu1242.txt,NA,,NA,Varikin
 v_telugutelu1262,Telugu_telu1262,telu1262,tel,Telugu,Dravidian,16.4529,78.7024,varikin,Telugu_telu1262.txt,NA,,NA,Varikin
@@ -473,7 +473,7 @@ v_tuyucatuyu1244,Tuyuca_tuyu1244,tuyu1244,tue,Tuyuca,,0.39441,-70.043515,varikin
 v_tzeltaltzel1254,Tzeltal_tzel1254,tzel1254,tzh,Tzeltal,,16.6384,-92.2786,varikin,Tzeltal_tzel1254.txt,NA,,NA,Varikin
 v_udmurtudmu1245,Udmurt_udmu1245,udmu1245,udm,Udmurt,Uralic,56.12921,52.63548,varikin,Udmurt_udmu1245.txt,NA,,NA,Varikin
 v_ukrainianukra1253,Ukrainian_ukra1253,ukra1253,ukr,Ukrainian,Indo-European,49.796,29.945,varikin,Ukrainian_ukra1253.txt,NA,,NA,Varikin
-v_ulawaulaw1237,Ulawa_ulaw1237,ulaw1237,,Ulawa,Austronesian,NA,NA,varikin,Ulawa_ulaw1237.txt,NA,,NA,Varikin
+v_ulawaulaw1237,Ulawa_ulaw1237,ulaw1237,,Ulawa,Austronesian,,,varikin,Ulawa_ulaw1237.txt,NA,,NA,Varikin
 v_umbunduumbu1257,Umbundu_umbu1257,umbu1257,umb,Umbundu,Atlantic-Congo,-12.4763,14.4148,varikin,Umbundu_umbu1257.txt,NA,,NA,Varikin
 v_umpilaumpi1239,Umpila_umpi1239,umpi1239,ump,Umpila,Pama-Nyungan,-13.1528,143.467,varikin,Umpila_umpi1239.txt,NA,,NA,Varikin
 v_urduurdu1245,Urdu_urdu1245,urdu1245,urd,Urdu,Indo-European,25,67,varikin,Urdu_urdu1245.txt,NA,,NA,Varikin
@@ -487,7 +487,7 @@ v_wajarriwaja1257,Wajarri_waja1257,waja1257,wbv,Wajarri,Pama-Nyungan,-28.1761,11
 v_wakayawaga1260,Wakaya_waga1260,waga1260,wga,Wagaya,Pama-Nyungan,-20.329,137.623,varikin,Wakaya_waga1260.txt,NA,,NA,Varikin
 v_wallonwall1255,Wallon_wall1255,wall1255,wln,Walloon,Indo-European,50.2235,5.14509,varikin,Wallon_wall1255.txt,NA,,NA,Varikin
 v_wangkangurruwang1290,Wangkangurru_wang1290,wang1290,wgg,Wangganguru,Pama-Nyungan,-25.8148,135.941,varikin,Wangkangurru_wang1290.txt,NA,,NA,Varikin
-v_wangkumarawong1246,Wangkumara_wong1246,wong1246,xwk,Wangkumara,Pama-Nyungan,NA,NA,varikin,Wangkumara_wong1246.txt,NA,,NA,Varikin
+v_wangkumarawong1246,Wangkumara_wong1246,wong1246,xwk,Wangkumara,Pama-Nyungan,,,varikin,Wangkumara_wong1246.txt,NA,,NA,Varikin
 v_waoraniwaor1240,Waorani_waor1240,waor1240,auc,Waorani,,-1.12312,-76.683,varikin,Waorani_waor1240.txt,NA,,NA,Varikin
 v_wapishanawapi1253,Wapishana_wapi1253,wapi1253,wap,Wapishana,Arawakan,2.58744,-59.8021,varikin,Wapishana_wapi1253.txt,NA,,NA,Varikin
 v_wappowapp1239,Wappo_wapp1239,wapp1239,wao,Wappo,,38.25,-122.5,varikin,Wappo_wapp1239.txt,NA,,NA,Varikin
@@ -504,7 +504,7 @@ v_westernapachewest2615,Western_Apache_west2615,west2615,apw,Western Apache,,33.
 v_westernarmenianhoms1234,Western_Armenian_homs1234,homs1234,hyw,Western Armenian,Indo-European,40.1897,44.4839,varikin,Western_Armenian_homs1234.txt,NA,,NA,Varikin
 v_westernfarsiwest2369,Western_Farsi_west2369,west2369,pes,Western Farsi,Indo-European,32.9,53.3,varikin,Western_Farsi_west2369.txt,NA,,NA,Varikin
 v_westernpanjabiwest2386,Western_Panjabi_west2386,west2386,pnb,Western Panjabi,Indo-European,30.0948,75.3474,varikin,Western_Panjabi_west2386.txt,NA,,NA,Varikin
-v_westernshoshoniwest2622,Western_Shoshoni_west2622,west2622,,Western Shoshoni,Uto-Aztecan,NA,NA,varikin,Western_Shoshoni_west2622.txt,NA,,NA,Varikin
+v_westernshoshoniwest2622,Western_Shoshoni_west2622,west2622,,Western Shoshoni,Uto-Aztecan,,,varikin,Western_Shoshoni_west2622.txt,NA,,NA,Varikin
 v_whitemesauteutee1244b,White_Mesa_Ute_utee1244b,utee1244,,Ute,Uto-Aztecan,38,-109,varikin,White_Mesa_Ute_utee1244b.txt,NA,,NA,Varikin
 v_wichiwich1264,Wichí_wich1264,wich1264,mzh,Wichí Lhamtés Güisnay,,-23.1633,-62.1757,varikin,Wichí_wich1264.txt,NA,,NA,Varikin
 v_wikmungkanwikm1247,WikMungkan_wikm1247,wikm1247,wim,Wik-Mungkan,Pama-Nyungan,-13.98051,141.81611,varikin,WikMungkan_wikm1247.txt,NA,,NA,Varikin
@@ -533,7 +533,7 @@ v_yindjibarndiyind1247,Yindjibarndi_yind1247,yind1247,yij,Yindjibarndi,Pama-Nyun
 v_yombeyomb1244,Yombe_yomb1244,yomb1244,yom,Yombe,Atlantic-Congo,-4.86227,12.6362,varikin,Yombe_yomb1244.txt,NA,,NA,Varikin
 v_yortayortayort1237,Yorta_Yorta_yort1237,yort1237,xyy,Yorta Yorta,Pama-Nyungan,-35.9,145.01,varikin,Yorta_Yorta_yort1237.txt,NA,,NA,Varikin
 v_yucatecmayayuca1254,Yucatec_Maya_yuca1254,yuca1254,yua,Yucatec Maya,,18.7757,-88.9567,varikin,Yucatec_Maya_yuca1254.txt,NA,,NA,Varikin
-v_yugambehyugu1249,Yugambeh_yugu1249,yugu1249,,Yugumbir,Pama-Nyungan,NA,NA,varikin,Yugambeh_yugu1249.txt,NA,,NA,Varikin
+v_yugambehyugu1249,Yugambeh_yugu1249,yugu1249,,Yugumbir,Pama-Nyungan,,,varikin,Yugambeh_yugu1249.txt,NA,,NA,Varikin
 v_yukiyuki1243,Yuki_yuki1243,yuki1243,yuk,Northern Yukian,,39.8389,-123.296,varikin,Yuki_yuki1243.txt,NA,,NA,Varikin
 v_yulparijayulp1239,Yulparija_yulp1239,yulp1239,,Yulparija,Pama-Nyungan,-18.923519,122.370316,varikin,Yulparija_yulp1239.txt,NA,,NA,Varikin
 v_yurokyuro1248,Yurok_yuro1248,yuro1248,yur,Yurok,Algic,41.3262,-123.824,varikin,Yurok_yuro1248.txt,NA,,NA,Varikin
@@ -552,6 +552,6 @@ v_keikeii1239,Kei_keii1239,keii1239,kei,Kei,Austronesian,-5.64,133.02,varikin,Ke
 v_yamdenayamd1240,Yamdena_yamd1240,yamd1240,jmd,Yamdena,Austronesian,-7.74,131.44,varikin,Yamdena_yamd1240.csv,NA,,NA,Varikin
 v_fordataford1242,Fordata_ford1242,ford1242,frd,Fordata,Austronesian,-7.29,131.51,varikin,Fordata_ford1242.csv,NA,,NA,Varikin
 v_kungjuho1239,Kung_juho1239,juho1239,ktz,"!Kung, Southeastern Ju, or Ju'hoan",Kxa,-19.69,20.77,varikin,Kung_juho1239.csv,20200814,"This language has many different names. Kung was chosen for the project file due to lack of special characters, even if ju'hoansi is the one now viewed to be correct.",NA,Varikin
-v_copp1244,Copper_Inuit_copp1244,copp1244,,Copper Inuit,Eskimo-Aleut,NA,NA,varikin,Copper_Inuit_copp1244.csv,NA,,NA,Varikin
-v_nort2944,Nunamiut_nort2944,nort2944,,Nunamiut,Eskimo-Aleut,NA,NA,varikin,Nunamiut_nort2944.csv,NA,,NA,Varikin
-v_nets1241,Netsilik_nets1241,nets1241,,Netsilik,Eskimo-Aleut,NA,NA,varikin,Netsilik_nets1241.csv,NA,,NA,Varikin
+v_copp1244,Copper_Inuit_copp1244,copp1244,,Copper Inuit,Eskimo-Aleut,,,varikin,Copper_Inuit_copp1244.csv,NA,,NA,Varikin
+v_nort2944,Nunamiut_nort2944,nort2944,,Nunamiut,Eskimo-Aleut,,,varikin,Nunamiut_nort2944.csv,NA,,NA,Varikin
+v_nets1241,Netsilik_nets1241,nets1241,,Netsilik,Eskimo-Aleut,,,varikin,Netsilik_nets1241.csv,NA,,NA,Varikin
