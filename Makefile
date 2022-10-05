@@ -1,6 +1,6 @@
 # define version:
-GLOTTOLOG=v4.4
-CONCEPTICON=v2.5.0
+GLOTTOLOG=v4.6
+CONCEPTICON=v2.6.0
 
 .PHONY: help clean update test
 
@@ -29,7 +29,7 @@ backfill:
 
 # generate CLDF
 cldf: env ./kinbank/raw/
-	./env/bin/python3 ./env/bin/cldfbench lexibank.makecldf --glottolog-version $(GLOTTOLOG) --concepticon-version $(CONCEPTICON) kinbank
+	./env/bin/python3 ./env/bin/cldfbench lexibank.makecldf --glottolog-version $(GLOTTOLOG) --concepticon-version $(CONCEPTICON) kinbank &> cldf_log.txt 
 
 test: env
 	cd kinbank && pytest
