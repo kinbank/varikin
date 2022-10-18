@@ -8,4 +8,4 @@
 - **Synonymy:** 1.54[0m
 [32mINFO   [0m file written: [32m/Users/u1123114/Documents/projects/kinbank/varikin/kinbank/TRANSCRIPTION.md[0m
 [32mINFO   [0m file written: [32m/Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/lingpy-rcParams.json[0m
-[32mINFO   [0m ... done kinbank [191.5 secs][0m
+[32mINFO   [0m ... done kinbank [193.2 secs][0m
