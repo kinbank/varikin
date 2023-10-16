@@ -17,7 +17,7 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 - **Varieties:** 556
 - **Concepts:** 843
-- **Lexemes:** 123,189
+- **Lexemes:** 123,095
 - **Sources:** 595
 - **Synonymy:** 1.54
 
@@ -25,7 +25,7 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 
 
-- Entries missing sources: 40/123189 (0.03%)
+- Entries missing sources: 40/123095 (0.03%)
 
 ## CLDF Datasets
 

@@ -3,9 +3,9 @@
 [32mINFO   [0m Summary for dataset /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/cldf-metadata.json
 - **Varieties:** 556
 - **Concepts:** 843
-- **Lexemes:** 123,189
+- **Lexemes:** 123,095
 - **Sources:** 595
 - **Synonymy:** 1.54[0m
 [32mINFO   [0m file written: [32m/Users/u1123114/Documents/projects/kinbank/varikin/kinbank/TRANSCRIPTION.md[0m
 [32mINFO   [0m file written: [32m/Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/lingpy-rcParams.json[0m
-[32mINFO   [0m ... done kinbank [193.2 secs][0m
+[32mINFO   [0m ... done kinbank [136.0 secs][0m
