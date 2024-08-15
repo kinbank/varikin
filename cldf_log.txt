@@ -1,11 +1,11 @@
 [32mINFO   [0m running _cmd_makecldf on kinbank ...[0m
-[32mINFO   [0m file written: [32m/Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/.transcription-report.json[0m
+[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/.transcription-report.json[0m
 [32mINFO   [0m Summary for dataset /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/cldf-metadata.json
-- **Varieties:** 556
-- **Concepts:** 843
-- **Lexemes:** 123,095
-- **Sources:** 595
+- **Varieties:** 558 (linked to 549 different Glottocodes)
+- **Concepts:** 843 (linked to 19 different Concepticon concept sets)
+- **Lexemes:** 123,411
+- **Sources:** 599
 - **Synonymy:** 1.54[0m
-[32mINFO   [0m file written: [32m/Users/u1123114/Documents/projects/kinbank/varikin/kinbank/TRANSCRIPTION.md[0m
-[32mINFO   [0m file written: [32m/Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/lingpy-rcParams.json[0m
-[32mINFO   [0m ... done kinbank [136.0 secs][0m
+[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/TRANSCRIPTION.md[0m
+[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/lingpy-rcParams.json[0m
+[32mINFO   [0m ... done kinbank [215.8 secs][0m
