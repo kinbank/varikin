@@ -1,4 +1,4 @@
-﻿ID,Label,Glottocode,ISO639P3code,Name,Family,Latitude,Longitude,Project,ProjectFile,EntryDate,Comment,Link,Set
+ID,Label,Glottocode,ISO639P3code,Name,Family,Latitude,Longitude,Project,ProjectFile,EntryDate,Comment,Link,Set
 v_adnyamathanhaadny1235,Adnyamathanha_adny1235,adny1235,adt,Adnyamathanha,Pama-Nyungan,-30.1451,138.671,varikin,Adnyamathanha_adny1235.txt,,,,Varikin
 v_aghulaghu1253,Aghul_aghu1253,aghu1253,agx,Aghul,Nakh-Daghestanian,41.9242,47.5843,varikin,Aghul_aghu1253.txt,,,,Varikin
 v_aguarunaagua1253,Aguaruna_agua1253,agua1253,agr,Aguaruna,,-5.30044,-77.9218,varikin,Aguaruna_agua1253.txt,,,,Varikin
@@ -1300,3 +1300,4 @@ v_mbyaguaranimbya1239,Mbyá_Guaraní_mbya1239,mbya1239,gun,Mbyá Guaraní,Tupian
 v_prototupiguaranitupi1276,Proto_Tupi_Guarani_tupi1276,tupi1239,,Proto-Tupi-Guarani,Tupian,,,varikin,Proto_Tupi_Guarani_tupi1276.txt,,,,Goeldi
 v_mandarinchinamand1415,Mandarin_China_mand1415,mand1415,cmn,Mandarin Chinese,Sino-Tibetan,39.9,116.4,varikin,Mandarin_China_mand1415,,,,Varikin
 v_koreankore1280,Korean_kore1280,kore1280,kor,Korean,Koreanic,38.3,127.2,varikin,Korean_kore1280,,,,Varikin
+v_melpamelp1238,Melpa_melp1238,melp1238,med,Melpa,Nuclear Trans New Guinea,-5.63,144.34,varikin,Melpa_melp1238.csv,20250109,,,varikin

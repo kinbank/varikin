@@ -1,4 +1,4 @@
-﻿ID,Parameter,Gloss,Group,Concepticon_ID,Concepticon_Gloss,Dataset
+ID,Parameter,Gloss,Group,Concepticon_ID,Concepticon_Gloss,Dataset
 BornSameDay,BornSameDay,Born on the Same Day,,,,parabank
 FMZD,FMZD,father's mother's sister's daughter,,,,parabank
 HusbandsSameGroup,HusbandsSameGroup,Husbands Same Group,,,,parabank
@@ -952,3 +952,45 @@ fHFM,fHFM,female speaker's husband's father's mother,Affines,,,varikin
 mZC,mZC,male speaker's sister's child,Nieces & Nephews,,,varikin
 mHeZ,mHeZ,male speaker's husband's elder sister,Affines,,,varikin
 mHyZ,mHyZ,male speaker's husband's younger sister,Affines,,,varikin
+mWDBH,mWBDH,male speaker's wife's brother's daughter's wife,Affines,,,varikin
+fHBWB,fHBWB,female speaker's husband's brother's wife's brother,Affines,,,varikin
+fBWBW,fBWBW,female speaker's brother's wife's brother's wife,Affines,,,varikin
+fFZSSC,fFZSSC,female speaker's father's sister's son's son's child,,,,varikin
+fFZSDC,fFZSDC,female speaker's father's sister's son's daughter's child,,,,varikin
+fFZDDC,fFZDDC,female speaker's father's sister's daughter's daughter's child,,,,varikin
+fFZDSC,fFZDSC,female speaker's father's sister's daughter's son's child,,,,varikin
+fFBSSC,fFBSSC,female speaker's father's brother's son's son's child,,,,varikin
+fFBSDC,fFBSDC,female speaker's father's brother's son's daughter's child,,,,varikin
+fFBDSC,fFBDSC,female speaker's father's brother's daughter's son's child,,,,varikin
+fFBDDC,fFBDDC,female speaker's father's brother's daughter's daughter's child,,,,varikin
+fZDC,fZDC,female speaker's sister's daughter's child,,,,varikin
+fBSC,fBSC,female speaker's brother's son's child,,,,varikin
+fBDC,fBDC,female speaker's brother's daughter's child,,,,varikin
+fMZSSC,fMZSSC,female speaker's mother's sister's son's son's child,,,,varikin
+fMZSDC,fMZSDC,female speaker's mother's sister's son's daughter's child,,,,varikin
+fMZDSC,fMZDSC,female speaker's mother's sister's daughter's son's child,,,,varikin
+fMZDDC,fMZDDC,female speaker's mother's sister's daughter's daughter's child,,,,varikin
+fMBSSC,fMBSSC,female speaker's mother's brother's son's son's child,,,,varikin
+fMBSDC,fMBSDC,female speaker's mother's brother's son's daughter's child,,,,varikin
+fMBDSC,fMBDSC,female speaker's mother's brother's daughter's son's child,,,,varikin
+fMBDDC,fMBDDC,female speaker's mother's brother's daughter's daughter's child,,,,varikin
+mZSC,mZSC,male speaker's sister's son's child,,,,varikin
+mZDC,mZDC,male speaker's sister's daughter's child,,,,varikin
+mFBDSC,mFBDSC,male speaker's father's brother's daughter's son's child,,,,varikin
+mFBDDC,mFBDDC,male speaker's father's brother's daughter's daughter's child,,,,varikin
+mMZDSC,mMZDSC,male speaker's mother's sister's daughter's son's child,,,,varikin
+mMZDDC,mMZDDC,male speaker's mother's sister's daughter's daughter's child,,,,varikin
+mMBDSC,mMBDSC,male speaker's mother's brother's daughter's son's child,,,,varikin
+mMBDDC,mMBDDC,male speaker's mother's brother's daughter's daughter's child,,,,varikin
+mBSC,mBSC,male speaker's brother's son's child,,,,varikin
+mMDC,mMDC,male speaker's brother's daughter's child,,,,varikin
+mFZDSC,mFZDSC,male speaker's father's sister's daughter's son's child,,,,varikin
+mFZDDC,mFZDDC,male speaker's father's sister's daughter's daughter's child,,,,varikin
+mFBSSC,mFBSSC,male speaker's father's brother's son's son's child,,,,varikin
+mFBSDC,mFBSDC,male speaker's father's brother's son's daughter's child,,,,varikin
+mFZSSC,mFZSSC,male speaker's father's sister's son's son's child,,,,varikin
+mFZSDC,mFZSDC,male speaker's father's sister's son's daughter's child,,,,varikin
+mMBSSC,mMBSSC,male speaker's mother's brother's son's son's child,,,,varikin
+mMBSDC,mMBSDC,male speaker's mother's brother's son's daughter's child,,,,varikin
+mMZSSC,mMZSSC,male speaker's mother's sister's son's son's child,,,,varikin
+mMZSDC,mMZSDC,male speaker's mother's sister's son's daughter's child,,,,varikin
