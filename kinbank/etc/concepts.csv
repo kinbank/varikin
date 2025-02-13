@@ -1056,3 +1056,19 @@ fSDDS,fSDDS,female speaker's son's daughter's daughter's son,Grandparents & -chi
 fSDDD,fSDDD,female speaker's son's daughter's daughter's daughter,Grandparents & -children,,,varikin
 fDDDS,fDDDS,female speaker's daughter's daughter's daughter's son,Grandparents & -children,,,varikin
 fDDDD,fDDDD,female speaker's daughter's daughter's daughter's daughter,Grandparents & -children,,,varikin
+mFZHZ,mFZHZ,male speaker's father's sister's husband's sister,Affines,,,varikin
+mFZHZH,mFZHZH,male speaker's father's sister's husband's sister's husband,Affines,,,varikin
+mFZHZS,mFZHZS,male speaker's father's sister's husband's sister's son,Affines,,,varikin
+mFZHZD,mFZHZD,male speaker's father's sister's husband's sister's daughter,Affines,,,varikin
+fFZHZ,fFZHZ,female speaker's father's sister's husband's sister,Affines,,,varikin
+fFZHZH,fFZHZH,female speaker's father's sister's husband's sister's husband,Affines,,,varikin
+fFZHZS,fFZHZS,female speaker's father's sister's husband's sister's son,Affines,,,varikin
+fFZHZD,fFZHZD,female speaker's father's sister's husband's sister's daughter,Affines,,,varikin
+fMBWZ,fMBWZ,female speaker's mother's brother's wife's sister,Affines,,,varikin
+fMBWZH,fMBWZH,female speaker's mother's brother's wife's sister's husband,Affines,,,varikin
+fMBWB,fMBWB,female speaker's mother's brother's wife's brother,Affines,,,varikin
+fMBWBW,fMBWBW,female speaker's mother's brother's wife's brother's wife,Affines,,,varikin
+mMBWZ,mMBWZ,male speaker's mother's brother's wife's sister,Affines,,,varikin
+mMBWZH,mMBWZH,male speaker's mother's brother's wife's sister's husband,Affines,,,varikin
+mMBWB,mMBWB,male speaker's mother's brother's wife's brother,Affines,,,varikin
+mMBWBW,mMBWBW,male speaker's mother's brother's wife's brother's wife,Affines,,,varikin
