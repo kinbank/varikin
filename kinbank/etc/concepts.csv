@@ -1072,3 +1072,13 @@ mMBWZ,mMBWZ,male speaker's mother's brother's wife's sister,Affines,,,varikin
 mMBWZH,mMBWZH,male speaker's mother's brother's wife's sister's husband,Affines,,,varikin
 mMBWB,mMBWB,male speaker's mother's brother's wife's brother,Affines,,,varikin
 mMBWBW,mMBWBW,male speaker's mother's brother's wife's brother's wife,Affines,,,varikin
+mMH_notFW_notM,mMH(notF)W(notM),male speaker's mother's husband's (not father) wife (not mother),Affines,,,varikin
+fMH_notFW_notM,fMH(notF)W(notM),female speaker's mother's husband's (not father) wife (not mother),Affines,,,varikin
+mFZW,mFZW,male speaker's father's sister's wife,Affines,,,varikin
+fFZW,fFZW,female speaker's father's sister's wife,Affines,,,varikin
+mFZeSW,mFZeSW,male speaker's father's sister's older son's wife,Affines,,,varikin
+mMBeSW,mMBeSW,male speaker's mother's brother's older son's wife,Affines,,,varikin
+mMH_notFSW,mMH(notF)SW,male speaker's mother's husband's (not father) son's wife,Affines,,,varikin
+fHFZeS,fHFZeS,female speaker's husband's father's sister's older son,Affines,,,varikin
+fHMBeS,fHMBeS,female speaker's husband's mother's brother's older son,Affines,,,varikin
+fHMH_notFS,fHMH(notF)S,female speaker's husband's mother's husband's (not father) son,Affines,,,varikin
