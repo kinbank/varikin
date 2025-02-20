@@ -1084,3 +1084,7 @@ fHMBeS,fHMBeS,female speaker's husband's mother's brother's older son,Affines,,,
 fHMH_notFS,fHMH(notF)S,female speaker's husband's mother's husband's (not father) son,Affines,,,varikin
 mFZCC,mFZCC,male speaker's father's sister's child's child,Nieces & Nephews,,,varikin
 mMBCC,mMBCC,male speaker's mother's brother's child's child,Nieces & Nephews,,,varikin
+fMHS_notBorhB,fMHS(notBorhB),female speaker's mother's husbands's son (not brother or half brother),Affines,,,varikin
+fMHD_notZorhZ,fMHD(notZorhZ),female speaker's mother's husbands's daughter (not sister or half sister),Affines,,,varikin
+mMHS_notBorhB,fMHS(notBorhB),male speaker's mother's husbands's son (not brother or half brother),Affines,,,varikin
+mMHD_notZorhZ,fMHD(notZorhZ),male speaker's mother's husbands's daughter (not sister or half sister),Affines,,,varikin
