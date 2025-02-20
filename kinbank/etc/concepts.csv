@@ -1086,5 +1086,5 @@ mFZCC,mFZCC,male speaker's father's sister's child's child,Nieces & Nephews,,,va
 mMBCC,mMBCC,male speaker's mother's brother's child's child,Nieces & Nephews,,,varikin
 fMHS_notBorhB,fMHS(notBorhB),female speaker's mother's husbands's son (not brother or half brother),Affines,,,varikin
 fMHD_notZorhZ,fMHD(notZorhZ),female speaker's mother's husbands's daughter (not sister or half sister),Affines,,,varikin
-mMHS_notBorhB,fMHS(notBorhB),male speaker's mother's husbands's son (not brother or half brother),Affines,,,varikin
-mMHD_notZorhZ,fMHD(notZorhZ),male speaker's mother's husbands's daughter (not sister or half sister),Affines,,,varikin
+mMHS_notBorhB,mMHS(notBorhB),male speaker's mother's husbands's son (not brother or half brother),Affines,,,varikin
+mMHD_notZorhZ,mMHD(notZorhZ),male speaker's mother's husbands's daughter (not sister or half sister),Affines,,,varikin
