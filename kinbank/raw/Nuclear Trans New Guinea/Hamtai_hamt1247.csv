@@ -125,9 +125,9 @@ mMBW,ampia,,male speaker's mother's brother's wife,,108,Blackwood_1978,
 mMH(notF)W(notM),no,,male speaker's mother's husband's (not father) wife (not mother),,107,Blackwood_1978,
 mFMZS,amo,,male speaker's father's mother's sister's son,,107,Blackwood_1978,Dubious
 mMMBS,amo,,male speaker's mother's mother's brother's son,,107,Blackwood_1978,Dubious
-mMHS(not B of hB),taso,,male speaker's mother's husband's son (not brother or half brother),,107,Blackwood_1978,
-mMHS(not B of hB),nukwe,,male speaker's mother's husband's son (not brother or half brother),,107,Blackwood_1978,
-mMHD(not Z or hZ),nukwe,,male speaker's mother's husband's daughter (not sister or half sister),,107,Blackwood_1978,
+mMHS(notBofhB),taso,,male speaker's mother's husband's son (not brother or half brother),,107,Blackwood_1978,
+mMHS(notBofhB),nukwe,,male speaker's mother's husband's son (not brother or half brother),,107,Blackwood_1978,
+mMHD(notZorhZ),nukwe,,male speaker's mother's husband's daughter (not sister or half sister),,107,Blackwood_1978,
 mFZDS,makwe,,male speaker's father's sister's daughter's son,,107,Blackwood_1978,Dubious
 mMMB,aso,,male speaker's mother's mother's brother,,107,Blackwood_1978,Dubious
 mSDS,aso,,male speaker's son's daughter's son,,107,Blackwood_1978,Dubious
@@ -265,9 +265,9 @@ fMBW,ampia,,female speaker's mother's brother's wife,,108,Blackwood_1978,
 fMH(notF)W(notM),no,,female speaker's mother's husband's (not father) wife (not mother),,107,Blackwood_1978,
 fFMZS,amo,,female speaker's father's mother's sister's son,,107,Blackwood_1978,Dubious
 fMMBS,amo,,female speaker's mother's mother's brother's son,,107,Blackwood_1978,Dubious
-fMHS(not B or hB),taso,,female speaker's mother's husband's son (not brother or half brother),,107,Blackwood_1978,
-fMHS(not B or hB),nukwe,,female speaker's mother's husband's son (not brother or half brother),,107,Blackwood_1978,
-fMHD(not Z or hZ),nukwe,,female speaker's mother's husband's daughter (not sister or half sister),,107,Blackwood_1978,
+fMHS(notBorhB),taso,,female speaker's mother's husband's son (not brother or half brother),,107,Blackwood_1978,
+fMHS(notBorhB),nukwe,,female speaker's mother's husband's son (not brother or half brother),,107,Blackwood_1978,
+fMHD(notZorhZ),nukwe,,female speaker's mother's husband's daughter (not sister or half sister),,107,Blackwood_1978,
 fFZDS,makwe,,female speaker's father's sister's daughter's son,,107,Blackwood_1978,Dubious
 fMMB,aso,,female speaker's mother's mother's brother,,107,Blackwood_1978,Dubious
 fSDS,aso,,female speaker's son's daughter's son,,107,Blackwood_1978,Dubious
