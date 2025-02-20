@@ -1,11 +1,29 @@
 [32mINFO   [0m running _cmd_makecldf on kinbank ...[0m
-[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/.transcription-report.json[0m
-[32mINFO   [0m Summary for dataset /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/cldf-metadata.json
-- **Varieties:** 558 (linked to 549 different Glottocodes)
-- **Concepts:** 843 (linked to 19 different Concepticon concept sets)
-- **Lexemes:** 123,411
-- **Sources:** 599
-- **Synonymy:** 1.54[0m
-[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/TRANSCRIPTION.md[0m
-[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin/kinbank/cldf/lingpy-rcParams.json[0m
-[32mINFO   [0m ... done kinbank [215.8 secs][0m
+Traceback (most recent call last):
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/./env/bin/cldfbench", line 33, in <module>
+    sys.exit(load_entry_point('cldfbench', 'console_scripts', 'cldfbench')())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/env/lib/python3.12/site-packages/cldfbench/__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/env/lib/python3.12/site-packages/pylexibank/commands/makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/env/lib/python3.12/site-packages/cldfbench/cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/env/lib/python3.12/site-packages/pylexibank/dataset.py", line 221, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/env/lib/python3.12/site-packages/cldfbench/dataset.py", line 215, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/kinbank/lexibank_kinbank.py", line 70, in cmd_makecldf
+    lex = args.writer.add_forms_from_value(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/env/lib/python3.12/site-packages/pylexibank/cldf.py", line 236, in add_forms_from_value
+    kw_ = self.add_form(with_morphemes=with_morphemes, **kw_)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/env/lib/python3.12/site-packages/pylexibank/cldf.py", line 211, in add_form
+    return self._add_object(self.dataset.lexeme_class, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin/env/lib/python3.12/site-packages/pylexibank/cldf.py", line 260, in _add_object
+    raise ValueError(
+ValueError: invalid CLDF identifier FormTable-ID: v_hamtaihamt1247-mMHS(notBofhB)-1

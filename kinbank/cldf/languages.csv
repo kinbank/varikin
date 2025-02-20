@@ -1256,3 +1256,17 @@ v_mbyaguaranimbya1239,Mbyá Guaraní,mbya1239,Mbyá Guaraní,gun,South America,-
 v_prototupiguaranitupi1276,Proto-Tupi-Guarani,tupi1239,,,,,,Tupian,Proto_Tupi_Guarani_tupi1276,varikin,Proto_Tupi_Guarani_tupi1276.txt,,,,,Goeldi
 v_mandarinchinamand1415,Mandarin Chinese,mand1415,Mandarin Chinese,cmn,Eurasia,39.9,116.4,Sino-Tibetan,Mandarin_China_mand1415,varikin,Mandarin_China_mand1415,,,,,Varikin
 v_koreankore1280,Korean,kore1280,Korean,kor,Eurasia,38.3,127.2,Koreanic,Korean_kore1280,varikin,Korean_kore1280,,,,,Varikin
+v_melpamelp1238,Melpa,melp1238,Melpa,med,Papunesia,-5.63,144.34,Nuclear Trans New Guinea,Melpa_melp1238,varikin,Melpa_melp1238.csv,,20250109,,,varikin
+v_engaenga1252,Enga,enga1252,Enga,enq,Papunesia,-5.46,143.69,Nuclear Trans New Guinea,Enga_enga1252,varikin,Enga_enga1252.csv,,20250117,,,varikin
+v_wahginucl1620,Wahgi,nucl1620,Wahgi,wgi,Papunesia,-6.12,144.66,Nuclear Trans New Guinea,Wahgi_nucl1620,varikin,Wahgi_nucl1620.csv,,20250123,,,varikin
+v_southtairorasout2943,South Tairora,sout2943,South Tairora,omw,Papunesia,-6.35337,145.883,Nuclear Trans New Guinea,SouthTairora_sout2943,varikin,SouthTairora_sout2943.csv,,20250124,,,varikin
+v_ameleamel1241,Amele,amel1241,Amele,aey,Papunesia,-5.29126,145.687,Nuclear Trans New Guinea,Amele_amel1241,varikin,Amele_amel1241.csv,,20250128,,,varikin
+v_awiyaanaawiy1238,Awiyaana,awiy1238,Awiyaana,auy,Papunesia,-6.54079,145.76,Nuclear Trans New Guinea,Awiyaana_awiy1238,varikin,Awiyaana_awiy1238.csv,,20250201,,,varikin
+v_hapororanhita1242,Hapororan,hita1242,Hitau-Pororan,,Papunesia,-5.34,154.59,Austronesian,Hapororan_hita1242,varikin,Hapororan_hita1242.csv,,20250204,,,varikin
+v_gadsupgads1258,Gadsup,gads1258,Gadsup,gaj,Papunesia,-6.31631,145.997,Nuclear Trans New Guinea,Gadsup_gads1258,varikin,Gadsup_gads1258.csv,,20250206,,,varikin
+v_domdomm1246,Dom,domm1246,Dom,doa,Papunesia,-6.03737,144.895,Nuclear Trans New Guinea,Dom_domm1246,varikin,Dom_domm1246.csv,,20250213,,,varikin
+v_hamtaihamt1247,Hamtai,hamt1247,Hamtai,hmt,Papunesia,-7.54975,146.227,Nuclear Trans New Guinea,Hamtai_hamt1247,varikin,Hamtai_hamt1247.csv,,20250214,,,varikin
+v_oksapminoksa1245,Oksapmin,oksa1245,Oksapmin,opm,Papunesia,-5.20797,142.177,Nuclear Trans New Guinea,Oksapmin_oksa1245,varikin,Oksapmin_oksa1245.csv,,20250217,,,varikin
+v_danodano1240,Dano,dano1240,Dano,aso,Papunesia,-5.92188,145.254,Nuclear Trans New Guinea,Dano_dano1240,varikin,Dano_dano1240.csv,,20250218,only terms for male speaker,,varikin 
+v_misimapaneatimisi1243,Misima-Paneati,misi1243,Misima-Paneati,mpx,Papunesia,-10.6821,152.696,Austronesian,MisimaPaneati_misi1243,varikin,MisimaPaneati_misi1243.csv,,20250219,resources conflict each other a little at times,,varikin 
+v_wedauweda1241,Wedau,weda1241,Wedau,wed,Papunesia,-10.1246,150.172,Austronesian,Wedau_weda1241,varikin,Wedau_weda1241.csv,,20250220,,,varikin 
