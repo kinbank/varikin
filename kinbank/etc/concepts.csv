@@ -1088,3 +1088,7 @@ fMHS_notBorhB,fMHS(notBorhB),female speaker's mother's husbands's son (not broth
 fMHD_notZorhZ,fMHD(notZorhZ),female speaker's mother's husbands's daughter (not sister or half sister),Affines,,,varikin
 mMHS_notBorhB,mMHS(notBorhB),male speaker's mother's husbands's son (not brother or half brother),Affines,,,varikin
 mMHD_notZorhZ,mMHD(notZorhZ),male speaker's mother's husbands's daughter (not sister or half sister),Affines,,,varikin
+mPPPPP,mPPPPP,male speaker's great great great grandparent,Grandparents & -children,,,varikin
+fPPPPP,fPPPPP,female speaker's great great great grandparent,Grandparents & -children,,,varikin
+mPPPP,mPPPP,male speaker's  great great grandparent,Grandparents & -children,,,varikin
+fPPPP,fPPPP,female speaker's great great grandparent,Grandparents & -children,,,varikin
