@@ -6,6 +6,7 @@ raw/varikin
 *.zenodo.json
 kinbank/cldf/.transcription-report.json
 .Rproj.user
+*.Rproj
 .Rhistory
 kinbank.Rproj
 varikin.Rproj
