@@ -5,7 +5,7 @@ bibtexparser==2.0.0b8
 bs4==0.0.2
 certifi==2025.1.31
 cldfbench==1.14.1
-cldfcatalog==1.5.1
+cldfcatalog==1.6.0
 cldfzenodo==2.1.2
 clldutils==3.24.1
 colorama==0.4.6
@@ -26,7 +26,7 @@ newick==1.9.0
 numpy==2.2.3
 openpyxl==3.1.5
 packaging==24.2
-platformdirs==4.2.2
+platformdirs==4.3.6
 pluggy==1.5.0
 pybtex==0.24.0
 pycldf==1.41.0
@@ -43,7 +43,7 @@ referencing==0.36.2
 regex==2024.11.6
 requests==2.32.3
 rfc3986==1.5.0
-segments==2.2.1
+segments==2.3.0
 six==1.17.0
 smmap==5.0.2
 soupsieve==2.6
