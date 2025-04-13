@@ -1176,3 +1176,7 @@ mMBDSW,male speaker's mother's brother's daughter's son's wife,,,mMBDSW,,varikin
 mFyZH,male speaker's father's younger sister's husband,,,mFyZH,,varikin
 mMBSSW,male speaker's mother's brother's son's son's wife,,,mMBSSW,,varikin
 mhZ,male ego's half sister,,,mhZ,Siblings,varikin
+fCCCCC,female speaker's great great great grandchild,,,fCCCCC,Grandparents & -children,varikin
+mCCCCC,male speaker's great great great grandchild,,,mCCCCC,Grandparents & -children,varikin
+fFBZW,female speaker's father's brother's son's wife,,,fFBZW,Affines,varikin
+mFBZW,male speaker's father's brother's son's wife,,,mFBZW,Affines,varikin

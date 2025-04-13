@@ -15,17 +15,17 @@ this dataset using the DOI of the [particular released version](../../releases/)
 ![Concepticon: 11%](https://img.shields.io/badge/Concepticon-11%25-red.svg "Concepticon: 11%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 575 (linked to 566 different Glottocodes)
-- **Concepts:** 1,019 (linked to 19 different Concepticon concept sets)
-- **Lexemes:** 125,412
-- **Sources:** 619
-- **Synonymy:** 1.53
+- **Varieties:** 590 (linked to 581 different Glottocodes)
+- **Concepts:** 1,085 (linked to 19 different Concepticon concept sets)
+- **Lexemes:** 127,223
+- **Sources:** 635
+- **Synonymy:** 1.52
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 90/125412 (0.07%)
+- Entries missing sources: 90/127223 (0.07%)
 
 ## CLDF Datasets
 
