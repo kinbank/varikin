@@ -1,11 +1,28 @@
 [32mINFO   [0m running _cmd_makecldf on kinbank ...[0m
-[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin2/kinbank/cldf/.transcription-report.json[0m
-[32mINFO   [0m Summary for dataset /Users/u1123114/Documents/projects/kinbank/varikin2/kinbank/cldf/cldf-metadata.json
-- **Varieties:** 575 (linked to 566 different Glottocodes)
-- **Concepts:** 1,019 (linked to 19 different Concepticon concept sets)
-- **Lexemes:** 125,412
-- **Sources:** 619
-- **Synonymy:** 1.53[0m
-[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin2/kinbank/TRANSCRIPTION.md[0m
-[32mINFO   [0m file written: /Users/u1123114/Documents/projects/kinbank/varikin2/kinbank/cldf/lingpy-rcParams.json[0m
-[32mINFO   [0m ... done kinbank [246.2 secs][0m
+Traceback (most recent call last):
+  File "/Users/u1123114/Documents/projects/kinbank/varikin2/kinbank/lexibank_kinbank.py", line 55, in cmd_makecldf
+    lang_id = languages[filename.stem]
+              ~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'Hali_hali1244'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/u1123114/Documents/projects/kinbank/varikin2/./env/bin/cldfbench", line 33, in <module>
+    sys.exit(load_entry_point('cldfbench', 'console_scripts', 'cldfbench')())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin2/env/lib/python3.12/site-packages/cldfbench/__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin2/env/lib/python3.12/site-packages/pylexibank/commands/makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "/Users/u1123114/Documents/projects/kinbank/varikin2/env/lib/python3.12/site-packages/cldfbench/cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "/Users/u1123114/Documents/projects/kinbank/varikin2/env/lib/python3.12/site-packages/pylexibank/dataset.py", line 221, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "/Users/u1123114/Documents/projects/kinbank/varikin2/env/lib/python3.12/site-packages/cldfbench/dataset.py", line 215, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "/Users/u1123114/Documents/projects/kinbank/varikin2/kinbank/lexibank_kinbank.py", line 57, in cmd_makecldf
+    raise KeyError("Unable to find %s in `Label` column of ./etc/languages.csv." % filename)
+KeyError: 'Unable to find /Users/u1123114/Documents/projects/kinbank/varikin2/kinbank/raw/Austronesian/Hali_hali1244.csv in `Label` column of ./etc/languages.csv.'
