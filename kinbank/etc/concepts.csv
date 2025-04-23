@@ -1195,3 +1195,23 @@ fCCCCC,fCCCCC,female speaker's great great great grandchild,Grandparents & -chil
 mCCCCC,mCCCCC,male speaker's great great great grandchild,Grandparents & -children,,,varikin
 fFBZW,fFBZW,female speaker's father's brother's son's wife,Affines,,,varikin
 mFBZW,mFBZW,male speaker's father's brother's son's wife,Affines,,,varikin
+mFMBSS,mFMBSS,male speaker's father's mother's brother's son's son,,,,varikin
+mFMBSSW,mFMBSSW,male speaker's father's mother's brother's son's son's wife,,,,varikin
+mFMBWBSC,mFMBWBSC,male speaker's father's mother's brother's wife's brother's son's child,,,,varikin
+mFMBWB,mFMBWB,male speaker's father's mother's brother's wife's brother,,,,varikin
+mMBSSD,mMBSSD,male speaker's mother's brother's son's son's daughter,,,,varikin
+mMBZS,mMBZS,male speaker's mother's brother's sister's son,,,,varikin
+mMMBDS,mMMBDS,male speaker's mother's mother's brother's daughter's son,,,,varikin
+mSWBW,mSWBW,male speaker's son's wife's brother's wife,,,,varikin
+mFFZHZSS,mFFZHZSS,male speaker's father's father's sister's husband's sister's son's son,,,,varikin
+mFMBWBD,mFMBWBD,male speaker's father's mother's brother's wife's brother's daughter,,,,varikin
+mFMBWBS,mFMBWBS,male speaker's father's mother's brother's wife's brother's son,,,,varikin
+mFFFFF,mFFFFF,male speaker's father's father's father's father's father,,,,varikin
+mFFFFM,mFFFFM,male speaker's father's father's father's father's mother,,,,varikin
+fFZC,fFZC,female speaker's father's sister's child,,,,varikin
+fBC,fBC,female speaker's brother's child,,,,varikin
+fHFFZSS,fHFFZSS,female speaker's husband's father's father's sister's son's son,,,,varikin
+
+
+
+
