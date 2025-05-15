@@ -1219,5 +1219,7 @@ fFMBDDH,fFMBDDH,female speaker's father's mother's brother's daughter's daughter
 fFZDDH,fFZDDH,female speaker's father's sister's daughter's daughter's husband,,,,varikin
 myG,myG,male speaker's younger sibling,Siblings,,,varikin
 fyG,fyG,female speaker's younger sibling,Siblings,,,varikin
+fHZSW,fHZSW,female speaker's husband's sister's son's wife,Affines,,,varikin
+fHZDH,fHZDH,female speaker's husband's sister's daughter's husband,Affines,,,varikin
 
 
